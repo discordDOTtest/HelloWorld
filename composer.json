@@ -1,5 +1,5 @@
 {
-        "name": "dt/HelloWorld",
+        "name": "dt/hello-world",
         "autoload": {
                 "classmap": ["src/"]
         }
