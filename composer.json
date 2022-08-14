@@ -1,5 +1,5 @@
 {
-        "name": "dt/hello-world",
+        "name": "discord.test/hello-world",
         "autoload": {
                 "classmap": ["src/"]
         }
