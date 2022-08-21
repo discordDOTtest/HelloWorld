@@ -1,5 +1,4 @@
 {
-        "version": "1-stable",
         "name": "discord.test/hello-world",
         "autoload": {
                 "classmap": ["src/"]
